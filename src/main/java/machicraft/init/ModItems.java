@@ -14,6 +14,7 @@ public class ModItems {
 	public static Item tungstenNugget = new ItemTungstenNugget().setUnlocalizedName("tungstenNugget");
 	public static Item tinIngot = new ItemTinIngot().setUnlocalizedName("tinIngot");
 	public static Item tinNugget = new ItemTinNugget().setUnlocalizedName("tinNugget");
+	public static Item tungstenWire = new ItemTungstenWire().setUnlocalizedName("tungstenWire");
 
 	public static void init() {
 	    RegisterHelper.registerItem(copperIngot);
@@ -25,6 +26,7 @@ public class ModItems {
 	    RegisterHelper.registerItem(tungstenNugget);
 	    RegisterHelper.registerItem(tinIngot);
 	    RegisterHelper.registerItem(tinNugget);
+	    RegisterHelper.registerItem(tungstenWire);
 	}
 }
 

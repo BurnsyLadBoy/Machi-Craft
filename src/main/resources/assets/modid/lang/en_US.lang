@@ -10,6 +10,11 @@ item.copperSword.name=Copper Sword
 item.tungstenNugget.name=Tungsten Nugget
 item.tinIngot.name=Tin Ingot
 item.tinNugget.name=Tin Nugget
+item.copperHelm.name=Copper Helmet
+item.copperPlate.name=Copper Chestplate
+item.copperPants.name=Copper Leggings
+item.copperBoots.name=Copper Boots
+item.tungstenWire.name=Tungsten Wire
 
 tile.copperOre.name=Copper Ore
 tile.copperBlock.name=Block of Copper

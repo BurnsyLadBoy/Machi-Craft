@@ -1,0 +1,16 @@
+[
+{
+  "modid": "burnsyladboy_machicraft",
+  "name": "MachiCraft",
+  "description": "A tech based mod.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Max_B_"],
+  "credits": "TheXFactor117, for making a tutorial on how to make mods",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
